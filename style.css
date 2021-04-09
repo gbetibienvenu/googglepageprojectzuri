@@ -1,0 +1,62 @@
+body,p{
+				margin:0;
+				padding:0;
+}
+nav{
+				display:flex;
+				justify-content:space-around;
+				width:20%;
+				padding:2em;
+				margin-left:auto;
+}
+
+a{
+				color:black;
+				text-decoration:none;
+				
+}
+
+nav img{
+				height :20px; 
+				
+}
+
+main{
+				width:50%;
+				margin:6.9em auto; 
+				text-align:center;
+}
+
+input{
+				width:80%;
+				padding:1em;
+				border-radius:30px;
+				border:1px solid gray; 
+				
+}
+.btns_container{
+				margin-top:1em;
+}
+.btns_container button{
+				padding:1em;
+				border:none;
+}
+.footer{
+				background-color:rgb(240,230,236);
+}
+.footer_buttom{
+				padding:1em;
+				display:flex;
+				border-top:1px solid gray; 
+				justify-content:space-betwen ;
+}
+a:hover{
+				text-decoration:underline;
+}
+.left a{
+				margin-right:1em; 
+				
+}
+.right a{
+				margin-right:1em;
+}
